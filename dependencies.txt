@@ -1,0 +1,5 @@
+express
+cors
+sequelize
+sequelize-cli -D
+nodemon -D
